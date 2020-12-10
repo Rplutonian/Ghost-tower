@@ -23,6 +23,7 @@ function setup(){
   ghost.addImage(ghostImage)
   ghost.scale = 0.5
   doorsGroup=new Group()
+  ghost.debug = true
 }
 
 
